@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1521353386 source:c:\users\luolang\desktop\library system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"admin.h"
+	"student.h"
+
+1521303351 c:\users\luolang\desktop\library system\admin.h
+	<stdio.h>
+
+1521348312 source:c:\users\luolang\desktop\library system\admin.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+
+1521353267 c:\users\luolang\desktop\library system\student.h
+
+1521353440 source:c:\users\luolang\desktop\library system\student.c
+	<stdio.h>
+	"admin.h"
+	"student.h"
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1522216010 source:h:\my c\library system\admin.c
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+
+1526281584 h:\my c\library system\admin.h
+	<stdio.h>
+
+1522216010 source:h:\my c\library system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"admin.h"
+	"student.h"
+	"statu.h"
+
+1522159768 h:\my c\library system\student.h
+	"admin.h"
+
+1522216010 source:h:\my c\library system\student.c
+	<stdio.h>
+	"admin.h"
+	"student.h"
+	"statu.h"
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1522160143 h:\my c\library system\statu.h
+	<time.h>
+	"admin.h"
+	"student.h"
+
+1522216010 source:h:\my c\library system\status.c
+	"statu.h"
+	"admin.h"
+	"student.h"
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
